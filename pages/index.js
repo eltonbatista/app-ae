@@ -1,5 +1,5 @@
 function Home() {
-    return <div> APP AE Tecnologia</div>
+    return <h1> APP AE Tecnologia</h1>
 }
 
 export default Home
